@@ -4,6 +4,13 @@ Esta app te permite obtener frases aleatorias de la serie "Breaking Bad" mediant
 
 ## Imágenes
 
+## Tecnologías
+
+• HTML  
+• CSS  
+• Javascript  
+• React JS
+
 ## Instalación
 
 1 - Clonar el repositorio  
