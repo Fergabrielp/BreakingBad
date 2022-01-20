@@ -4,7 +4,7 @@ Esta app te permite obtener frases aleatorias de la serie "Breaking Bad" mediant
 
 ## Imágenes
 
-## Instalacion
+## Instalación
 
 1 - Clonar el repositorio  
 2 - npm start
